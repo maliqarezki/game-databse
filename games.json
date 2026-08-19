@@ -119,7 +119,7 @@
       "logo_url": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/rdrfnbef6l8nyx6bvdip?ik-sanitizeSvg=true"
     }
   },
-    {
+  {
     "nama": "Crossy Road",
     "deskripsi": "Crossy Road is an 8-bit endless arcade hopper game in which your mission is to control the chicken and cross the roads, rivers, and railroads safely.",
     "thumbnail": "https://cdn-www.bluestacks.com/bs-images/Banner_Video_Cover.jpg",
@@ -129,7 +129,7 @@
       "logo_url": "https://images.squarespace-cdn.com/content/v1/5e3bb512203ccf3516032e33/95ca1fdc-a238-40a5-a2ee-050791f2dba5/Hipster+Whale+Logo+White+RGB.png"
     }
   },
-      {
+  {
     "nama": "Subway Surfers",
     "deskripsi": "Subway Surfers is an endless runner game where you dodge trains, collect coins, and chase high scores with simple controls and fast arcade gameplay.",
     "thumbnail": "https://statik.tempo.co/data/2019/12/18/id_898710/898710_720.jpg",
@@ -139,7 +139,7 @@
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/SYBO_Games.jpeg"
     }
   },
-      {
+  {
     "nama": "Dino Bros",
     "deskripsi": "Help the two dino bros collect all coins on each map by working together.",
     "thumbnail": "https://i.ytimg.com/vi/Eq-H7OlMi4Q/maxresdefault.jpg",
@@ -329,7 +329,6 @@
       "logo_url": "https://fingernic.com/wp-content/uploads/2025/01/fingernic_logo_4-1.png"
     }
   },
-  
   {
     "nama": "Prism Match 3D",
     "deskripsi": "Dive into a mesmerizing 3D cube universe where vibrant prisms challenge your logic and timing. Rotate and explore intricately designed levels while relaxing your mind. Perfect your skills to conquer endless creative stages, offering a refreshing blend of relaxation and mental exercise.",
@@ -552,7 +551,7 @@
   },
   {
     "nama": "My First 100 Words",
-    "deskripsi": " Immerse your child in \"My First 100 Words,\" a vibrant language adventure! They will explore multiple languages through playful interactions, spotting emojis while hearing correct pronunciations. With increasing challenges, they’ll build vocabulary and cultural awareness, making learning a captivating journey. Watch them thrive as they start a multilingual quest!",
+    "deskripsi": "Immerse your child in \"My First 100 Words,\" a vibrant language adventure! They will explore multiple languages through playful interactions, spotting emojis while hearing correct pronunciations. With increasing challenges, they’ll build vocabulary and cultural awareness, making learning a captivating journey. Watch them thrive as they start a multilingual quest!",
     "thumbnail": "https://img.gamepix.com/games/my-100-first-words/cover/my-100-first-words.png?w=320",
     "embed_url": "https://play.gamepix.com/my-100-first-words/embed?sid=U1ANI",
     "developer": {
@@ -562,7 +561,7 @@
   },
   {
     "nama": "Kobadoo Arithmetic",
-    "deskripsi": "Sharpen your mind with Kobadoo Arithmetic, a captivating number challenge that enhances math skills and memory. Memorize sequences, calculate sums, and tackle increasingly complex levels. This scientifically designed game offers a simple yet stimulating experience that boosts cognitive abilities while keeping players engaged and entertained. ",
+    "deskripsi": "Sharpen your mind with Kobadoo Arithmetic, a captivating number challenge that enhances math skills and memory. Memorize sequences, calculate sums, and tackle increasingly complex levels. This scientifically designed game offers a simple yet stimulating experience that boosts cognitive abilities while keeping players engaged and entertained.",
     "thumbnail": "https://img.gamepix.com/games/kobadoo-arithmetic/cover/kobadoo-arithmetic.png?w=320",
     "embed_url": "https://play.gamepix.com/kobadoo-arithmetic/embed?sid=U1ANI",
     "developer": {
@@ -1082,7 +1081,7 @@
   },
   {
     "nama": "Idle Craft 3D",
-    "deskripsi": " Rebuild your home in Idle Craft 3D where you recruit workers and summon elders to manage fatigue. Enjoy a vibrant 3D world and continuous progress, even when idle. Strategize wisely to enhance your workforce, master resource balance, and marvel at the satisfying transformation around you.",
+    "deskripsi": "Rebuild your home in Idle Craft 3D where you recruit workers and summon elders to manage fatigue. Enjoy a vibrant 3D world and continuous progress, even when idle. Strategize wisely to enhance your workforce, master resource balance, and marvel at the satisfying transformation around you.",
     "thumbnail": "https://img.gamepix.com/games/idle-craft-3d-1/cover/idle-craft-3d-1.png?w=320",
     "embed_url": "https://play.gamepix.com/idle-craft-3d-1/embed?sid=U1ANI",
     "developer": {
@@ -1290,8 +1289,4 @@
       "logo_url": "https://www.google.com/s2/favicons?domain=pitigamedev.itch.io&sz=128"
     }
   }
-  
-  
 ]
-
-
