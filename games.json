@@ -10,6 +10,16 @@
     }
   },
   {
+    "nama": "EaglerCraft 1.12.2",
+    "deskripsi": "just minecraft.",
+    "thumbnail": "https://cdn.eaglercraft.ru/img/Official_Minecraft_Trailer.webp",
+    "embed_url": "https://eaglercraft.dev/clients/Release%201.12.2%20JS/index.html",
+    "developer": {
+      "nama": "EagTek",
+      "logo_url": "https://images.icon-icons.com/2699/PNG/512/mojang_logo_icon_170945.png"
+    }
+  },
+  {
     "nama": "Kour.io",
     "deskripsi": "The #1 Multiplayer FPS Game. Nikmati pengalaman shooter online terbaik langsung di browser kamu.",
     "thumbnail": "https://cbox9234.github.io/res/scopeditems/kour.io.png",
